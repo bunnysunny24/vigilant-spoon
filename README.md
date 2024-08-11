@@ -1,7 +1,7 @@
 # vigilant-spoon
-Dragon Repeller - RPG Game
+Dragon Fighter
 
-**Dragon Repeller** is a simple browser-based RPG where the player must defeat a dragon to free the townspeople. The game includes basic elements such as experience points (XP), health, and gold. Players can explore different areas like the store and the cave, and eventually face off against a dragon in battle.
+**Dragon Fighter** is a simple browser-based RPG where the player must defeat a dragon to free the townspeople. The game includes basic elements such as experience points (XP), health, and gold. Players can explore different areas like the store and the cave, and eventually face off against a dragon in battle.
 
 ## Features
 
